@@ -1,5 +1,7 @@
-import requests
 from typing import List
+
+import requests
+
 
 class Text():
 
@@ -92,16 +94,15 @@ class Text():
             List: List of words
         """
         text = self.__get_text()
-        text = text.replace('-', ',').replace('=', ',')
-        text = text.split('# page 78')[0]
+        text = text.replace('-', ',').replace('=', ',').replace('.', ',')
         lines = text.split('\n')
 
         words = []
 
         for line in lines:
-            if not line.startswith('#'):
-                for word in line.replace(',',' ').split(' '):
-                    if len(word) > 0:
+            if not line.startswith('#'): # ignore comments
+                for word in line.replace(',','').split(' '):
+                    if len(word):
                         words.append(word.strip())
         return words
     

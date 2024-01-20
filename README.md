@@ -1,6 +1,18 @@
-# NLP-Text-Analysis
+# NLP Text Analysis
 
-This project is part of the AGH UST course called Natural Language Processing in Artificial Intelligence Systems. It focuses on text analysis using Natural Language Processing (NLP) techniques.
+`Created by: Marcin Zub`
+
+## Overview
+This project is part of the AGH UST course *Natural Language Processing in Artificial Intelligence Systems*. It focuses on text analysis using Natural Language Processing (NLP) techniques.
+
+Texts that are being analyzed are:
+1. `Manuskrypt Wojnicza` by unknown author
+2. `One hundred years of solitude` by Gabriel Garcia Marquez
+
+For each of them, the program performs the following operations:
+1. Check weather or not it's following the Zipf law
+2. Create the N-gram array with added incidence
+3. Create the collocation table
 
 ## Project Structure
 
@@ -8,10 +20,11 @@ The project has the following structure:
 
 - `src/`: Contains the source code for the project.
   - `analysis.ipynb`: Jupyter notebook for data analysis.
-  - `processing/`: Contains Python scripts for data processing.
+  - `data/`: Contains the raw and processed data. 
+  - `models/`: Contains text model
+  - `processing/`: Contains Python classes for data processing.
     - `zipf.py`: Implements the Zipf's law functionality.
-- `data/`: Contains the raw and processed data.
-- `tests/`: Contains unit tests for the project.
+  - `tests/`: Contains unit tests for the project.
 - `requirements.txt`: Lists the Python dependencies required by the project.
 
 ## Getting Started
