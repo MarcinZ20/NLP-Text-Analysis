@@ -20,8 +20,11 @@ The project has the following structure:
 
 - `src/`: Contains the source code for the project.
   - `analysis.ipynb`: Jupyter notebook for data analysis.
-  - `data/`: Contains the raw and processed data. 
+  - `data/`: Contains the project data
+    - `output/`: Here are output files
+    - `raw/`: Raw text files if needed
   - `models/`: Contains text model
+    - `text.py`: Implements the text model with read functions 
   - `processing/`: Contains Python classes for data processing.
     - `zipf.py`: Implements the Zipf's law functionality.
   - `tests/`: Contains unit tests for the project.
