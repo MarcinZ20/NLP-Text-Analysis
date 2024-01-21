@@ -5,10 +5,10 @@ import requests
 
 class Text():
 
-    def __init__(self, 
-                 text_name: str, 
-                 text_author: str = 'Unknown', 
-                 text_file_path: str = None, 
+    def __init__(self,
+                 text_name: str,
+                 text_author: str = 'Unknown',
+                 text_file_path: str = None,
                  text_file_url: str = None) -> None:
         self.text_name = text_name
         self.text_author = text_author
@@ -18,15 +18,18 @@ class Text():
 
 
     def __repr__(self) -> str:
-        return f'Text(text_name={self.text_name}, text_author={self.text_author}, text_file_path={self.text_file_path}, text_file_url={self.text_file_url})'    
-    
+        return f'Text(text_name={self.text_name}, \\
+        text_author={self.text_author}, \\
+        text_file_path={self.text_file_path}, \\
+        text_file_url={self.text_file_url})'
+
     def __str__(self) -> str:
         return f'Text: {self.text_name} by {self.text_author}'
-    
+
     @property
     def text_name(self) -> str:
         return self._text_name
-    
+
     @text_name.setter
     def text_name(self, text_name: str) -> None:
         if not isinstance(text_name, str):
@@ -36,7 +39,7 @@ class Text():
     @property
     def text_author(self) -> str:
         return self._text_author
-    
+
     @text_author.setter
     def text_author(self, text_author: str) -> None:
         if not isinstance(text_author, str):
@@ -46,7 +49,7 @@ class Text():
     @property
     def text_file_path(self) -> str:
         return self._text_file_path
-    
+
     @text_file_path.setter
     def text_file_path(self, text_file_path: str) -> None:
         if text_file_path is not None and not isinstance(text_file_path, str):
@@ -56,13 +59,13 @@ class Text():
     @property
     def text_file_url(self) -> str:
         return self._text_file_url
-    
+
     @text_file_url.setter
     def text_file_url(self, text_file_url: str) -> None:
         if text_file_url is not None and not isinstance(text_file_url, str):
             raise TypeError('text_file_url must be a string')
         self._text_file_url = text_file_url
-    
+
     def __get_text(self) -> str:
         """Gets text from a given file path or url
 
@@ -86,7 +89,7 @@ class Text():
             raise Exception('No text file path or url provided')
         
         return text
-    
+
     def get_words(self) -> List[str]:
         """Gets words from a given file path or url
 
