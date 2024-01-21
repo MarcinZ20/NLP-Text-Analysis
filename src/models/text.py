@@ -101,7 +101,7 @@ class Text():
 
         for line in lines:
             if not line.startswith('#'): # ignore comments
-                for word in line.replace(',','').split(' '):
+                for word in line.replace(',',' ').split(' '):
                     if len(word):
                         words.append(word.strip())
         return words

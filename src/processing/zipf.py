@@ -1,4 +1,4 @@
-from collections import Counter
+from collections import Counter, OrderedDict
 from pathlib import Path
 from typing import Dict, List, Tuple
 
@@ -62,7 +62,7 @@ class ZipfAnalyzer:
 
         return grams
     
-    def calculate_n_grams(self, n_start: int = 2, n_end: int = 3) -> List[Dict]:
+    def calculate_n_grams(self, n_start: int = 2, n_end: int = 4) -> List[Dict]:
         """Function to calculate n-grams for the provided text
 
         Args:
@@ -84,15 +84,9 @@ class ZipfAnalyzer:
         
         for n in range(n_start, n_end):
             grams = self.__generate_n_grams(n)
-            grams_count: Dict = {}
+            g = dict(Counter(grams).most_common())
 
-            for gram in grams:
-                if gram in grams_count:
-                    grams_count[gram] += 1
-                else:
-                    grams_count[gram] = 1
-
-            n_grams.append(grams_count)
+            n_grams.append(g)
 
         return n_grams
 
@@ -122,6 +116,7 @@ class ZipfPrinter:
         for index, n_gram in enumerate(self.n_grams):
             print(f'\n{index + start_index}-GRAMs')
             print('---------')
+
             for key, value in n_gram.items():
                 if value > 1:
                     print(f'{key}: {value}')
@@ -171,11 +166,11 @@ class ZipfWriter:
             file_path.touch()
 
         with open(file_path, 'w') as f:
-            f.write(f'N-grams analysis for "{self.text.text_name}" by {self.text.text_author}\n\n')
+            f.write(f'N-grams analysis for "{self.text.text_name}" by {self.text.text_author}\n')
 
             for index, n_gram in enumerate(n_grams):
                 print(type(n_gram))
-                f.write(f'{index + start_index}-GRAMs\n--------\n')
+                f.write(f'\n{index + start_index}-GRAMs\n--------\n')
 
                 for key, value in n_gram.items():
                     if value > 1:
