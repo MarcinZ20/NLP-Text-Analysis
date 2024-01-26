@@ -18,10 +18,7 @@ class Text():
 
 
     def __repr__(self) -> str:
-        return f'Text(text_name={self.text_name}, \\
-        text_author={self.text_author}, \\
-        text_file_path={self.text_file_path}, \\
-        text_file_url={self.text_file_url})'
+        return f"Text(text_name={self.text_name}, text_author={self.text_author}, \\ text_file_path={self.text_file_path}, text_file_url={self.text_file_url})"
 
     def __str__(self) -> str:
         return f'Text: {self.text_name} by {self.text_author}'

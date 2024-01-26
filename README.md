@@ -7,7 +7,7 @@ This project is part of the AGH UST course *Natural Language Processing in Artif
 
 Texts that are being analyzed are:
 1. `Manuskrypt Wojnicza` by unknown author
-2. `One hundred years of solitude` by Gabriel Garcia Marquez
+2. `Oszi Csillagog` by Knut Hamsun
 
 For each of them, the program performs the following operations:
 1. Check weather or not it's following the Zipf law

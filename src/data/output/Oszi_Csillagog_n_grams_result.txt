@@ -1,0 +1,3108 @@
+N-grams analysis for "Oszi Csillagog" by Knut Hamsun
+
+2-GRAMs
+--------
+és a: 74
+hogy a: 60
+– Nem: 59
+Project Gutenberg™: 55
+– mondta: 53
+– Igen: 53
+– A: 40
+– De: 39
+ez a: 38
+nem volt: 34
+meg a: 33
+a kapitány: 32
+– Hát: 29
+nagyságos asszony: 29
+of the: 28
+hogy az: 26
+the Project: 26
+– No: 25
+a nagyságos: 25
+az asszony: 24
+hogy nem: 24
+és nem: 23
+– mondja: 23
+nem is: 23
+az erdőbe: 22
+1 E: 22
+– kérdezte: 20
+Project Gutenberg: 20
+– mondom: 19
+volt a: 19
+– felelte: 19
+ezt a: 18
+a konyhában: 18
+az a: 18
+egy kis: 18
+Falkenberg –: 18
+of this: 18
+Gutenberg™ electronic: 18
+és az: 17
+– És: 17
+az egyik: 17
+az egész: 16
+Erzsébet kisasszony: 16
+in the: 16
+electronic works: 16
+with the: 16
+to the: 16
+És a: 15
+De hiszen: 15
+– Ugy: 15
+és egy: 15
+egy kicsit: 15
+A kapitány: 15
+Igen –: 15
+terms of: 15
+this agreement: 15
+de a: 14
+– Azt: 14
+a kisasszony: 14
+és azt: 14
+van –: 14
+De a: 13
+ha a: 13
+hogy egy: 13
+a pap: 13
+a másik: 13
+Az asszony: 13
+United States: 13
+Gutenberg Literary: 13
+Literary Archive: 13
+Archive Foundation: 13
+van a: 12
+el a: 12
+az erdőben: 12
+most már: 12
+hogy mit: 12
+a munkát: 12
+– mondtam: 12
+– feleltem: 12
+az én: 12
+föl a: 12
+A nagyságos: 12
+the United: 12
+the terms: 12
+az ember: 11
+mint valami: 11
+és megint: 11
+és igy: 11
+a konyhába: 11
+volt és: 11
+láttam hogy: 11
+mondta a: 11
+– Te: 11
+Azt hiszem: 11
+csak a: 11
+és hogy: 11
+a levelet: 11
+electronic work: 11
+the work: 11
+1 F: 11
+már nem: 10
+ugy látszik: 10
+neki hogy: 10
+meg én: 10
+volt –: 10
+Most már: 10
+a munka: 10
+az udvaron: 10
+mondta –: 10
+meg az: 10
+mint a: 10
+és én: 10
+nem tudom: 10
+– Talán: 10
+a lovakat: 10
+mondta Falkenberg: 10
+azt mondta: 10
+mondta hogy: 10
+a kapitányné: 10
+– Hiszen: 10
+If you: 10
+access to: 10
+– de: 9
+ugy hogy: 9
+Nem tudom: 9
+volt az: 9
+a ház: 9
+is a: 9
+a dolog: 9
+én is: 9
+– Ez: 9
+– Ha: 9
+– Milyen: 9
+asszony –: 9
+még nem: 9
+this work: 9
+paragraph 1: 9
+volna a: 8
+még a: 8
+de nem: 8
+kellett volna: 8
+Ez a: 8
+A kisasszony: 8
+el kell: 8
+még mindig: 8
+mint egy: 8
+a fiatal: 8
+azt mondja: 8
+a két: 8
+mert a: 8
+– Nincs: 8
+– Az: 8
+itt a: 8
+van és: 8
+a lány: 8
+set forth: 8
+forth in: 8
+do not: 8
+Gutenberg™ License: 8
+of Project: 8
+a nap: 7
+– Hogy: 7
+– Akkor: 7
+és akkor: 7
+ha az: 7
+és ugy: 7
+mondja –: 7
+eszembe jut: 7
+a kis: 7
+csak egy: 7
+ki a: 7
+azt a: 7
+mondom –: 7
+be a: 7
+a vizet: 7
+volna ha: 7
+is meg: 7
+meg kell: 7
+volna –: 7
+egy darabig: 7
+a papné: 7
+– Egy: 7
+– Hová: 7
+a szomszéd: 7
+mondja hogy: 7
+az uton: 7
+hogy itt: 7
+Hát persze: 7
+Falkenberg a: 7
+a pajtában: 7
+– Itt: 7
+is –: 7
+– Csak: 7
+a fürész: 7
+itt van: 7
+az első: 7
+a fejem: 7
+csak nem: 7
+a gépet: 7
+levelet és: 7
+U S: 7
+copies of: 7
+agree to: 7
+www gutenberg: 7
+by the: 7
+the full: 7
+vagyok és: 6
+voltam és: 6
+gondolom magamban: 6
+az öreg: 6
+ez nem: 6
+De ez: 6
+– Mit: 6
+a fejét: 6
+és amikor: 6
+valami munka: 6
+a maga: 6
+ember volt: 6
+jutott hogy: 6
+mikor a: 6
+az ut: 6
+meg –: 6
+most is: 6
+a domb: 6
+a második: 6
+a házban: 6
+nem lehet: 6
+És az: 6
+egy egy: 6
+ő nem: 6
+van? –: 6
+idő alatt: 6
+az uj: 6
+a fiu: 6
+– Óh: 6
+– Most: 6
+– Maga: 6
+nem kell: 6
+ma este: 6
+én nem: 6
+hitte hogy: 6
+hogy ő: 6
+az? –: 6
+ki az: 6
+és ezt: 6
+a fürészt: 6
+mondom és: 6
+you are: 6
+work or: 6
+megint a: 5
+az erdő: 5
+anélkül hogy: 5
+ezeket a: 5
+egy egész: 5
+És ha: 5
+a parton: 5
+ebben a: 5
+volt valami: 5
+de ő: 5
+De ha: 5
+– Már: 5
+látom hogy: 5
+és néhány: 5
+ha nem: 5
+hogy milyen: 5
+meg volt: 5
+kijött és: 5
+és csak: 5
+az ebédet: 5
+a konyhából: 5
+eszembe jutott: 5
+a kutat: 5
+ezzel a: 5
+De mikor: 5
+ezen a: 5
+meg is: 5
+nem szólt: 5
+lett volna: 5
+gondoltam magamban: 5
+a viz: 5
+A pap: 5
+a tiszteletes: 5
+hiszen a: 5
+– Ugy?: 5
+és ezzel: 5
+lesz e: 5
+Ez az: 5
+éppen ugy: 5
+ez az: 5
+sem volt: 5
+volt hogy: 5
+ő is: 5
+de azért: 5
+szép napon: 5
+De az: 5
+nem a: 5
+mondta az: 5
+van egy: 5
+és most: 5
+amikor a: 5
+hogy már: 5
+de én: 5
+az ő: 5
+a takarót: 5
+mondtam neki: 5
+De én: 5
+mondtam –: 5
+tiszteletes ur: 5
+– kérdeztem: 5
+de most: 5
+lesz –: 5
+– Miért: 5
+Szünet –: 5
+hogy van: 5
+felelte Falkenberg: 5
+ki –: 5
+Falkenberg és: 5
+a dolgot: 5
+neki egy: 5
+kapitány ur: 5
+– Kérem: 5
+hogy én: 5
+nem hallottam: 5
+– Köszönöm: 5
+a lányok: 5
+– Mi: 5
+a lépcsőn: 5
+az ablakon: 5
+a hölgyek: 5
+– kérdezi: 5
+egy pár: 5
+az ur: 5
+hogy maga: 5
+not protected: 5
+protected by: 5
+by U: 5
+copyright law: 5
+the Foundation: 5
+use of: 5
+distribution of: 5
+comply with: 5
+you must: 5
+works in: 5
+a Project: 5
+a refund: 5
+in paragraph: 5
+work is: 5
+Gutenberg™ works: 5
+work in: 5
+full Project: 5
+or any: 5
+Gutenberg™ work: 5
+the copyright: 5
+E 1: 5
+or other: 5
+of a: 5
+F 3: 5
+még egyszer: 4
+csak az: 4
+vagyok a: 4
+elhatároztam hogy: 4
+öreg Gunhild: 4
+hiszen az: 4
+– kérdi: 4
+a városban: 4
+Csak a: 4
+a baltát: 4
+de ha: 4
+a skreiai: 4
+nagyon sok: 4
+Grindhusen meg: 4
+ha valami: 4
+No igen: 4
+a házból: 4
+a kérdés: 4
+a földre: 4
+a paphoz: 4
+vagy a: 4
+lett a: 4
+Hát te: 4
+nem vagyok: 4
+ki is: 4
+is kell: 4
+talán nem: 4
+és mi: 4
+No most: 4
+áll a: 4
+jut hogy: 4
+egy fiatal: 4
+nézte a: 4
+csinos volt: 4
+amit a: 4
+mégis csak: 4
+De azért: 4
+és ő: 4
+erdőbe és: 4
+is odajött: 4
+az oszlopot: 4
+– Igazad: 4
+Igazad van: 4
+és ez: 4
+néhány szót: 4
+pedig a: 4
+nem tudtam: 4
+már csak: 4
+A tiszteletes: 4
+De hát: 4
+– vélte: 4
+ugy sem: 4
+A második: 4
+mondtam: –: 4
+– Gyere: 4
+a dombra: 4
+– Majd: 4
+hozzá –: 4
+azt hiszem: 4
+– fordult: 4
+fordult: –: 4
+hogy igy: 4
+hogy ez: 4
+mondtam és: 4
+megkérdezte: –: 4
+egy hétig: 4
+a városba: 4
+vagy pedig: 4
+Szerettem volna: 4
+szerettem volna: 4
+Hát nem: 4
+megy a: 4
+– Én: 4
+egy ilyen: 4
+– csak: 4
+azt mondtam: 4
+a nagy: 4
+volt mint: 4
+mint amilyen: 4
+Tán csak: 4
+csöppet sem: 4
+No ez: 4
+mondta és: 4
+konyhába és: 4
+kisasszony –: 4
+– Igazán: 4
+Istenem milyen: 4
+kérdezte –: 4
+én –: 4
+a mi: 4
+Az egyik: 4
+másnap reggel: 4
+– Jó: 4
+voltam a: 4
+egész idő: 4
+a helyén: 4
+az idő: 4
+azután megint: 4
+mint én: 4
+fiatal Erik: 4
+Hát a: 4
+a kocsit: 4
+de már: 4
+már egészen: 4
+Miért nem: 4
+de… –: 4
+jött ki: 4
+Nincs –: 4
+Talán a: 4
+– szólt: 4
+nem tudott: 4
+a legjobb: 4
+én már: 4
+a zongorát: 4
+hogy ha: 4
+Láttam hogy: 4
+– és: 4
+– Tehát: 4
+el az: 4
+– hiszen: 4
+te nem: 4
+van az: 4
+és Falkenberg: 4
+a ketten: 4
+hogy Falkenberg: 4
+hogy ezt: 4
+éppen olyan: 4
+van még: 4
+mint azelőtt: 4
+Falkenberg pedig: 4
+– Még: 4
+asszony a: 4
+hogy valami: 4
+lesz ha: 4
+de az: 4
+fejem és: 4
+állt és: 4
+arra hogy: 4
+a boltba: 4
+az emberek: 4
+a kezét: 4
+nem fog: 4
+De nem: 4
+a kapitánynak: 4
+a pillanatban: 4
+a halott: 4
+A két: 4
+nem értem: 4
+ezek a: 4
+kapitány –: 4
+De igen: 4
+mondja a: 4
+a szobában: 4
+azt hitte: 4
+a kapitányt: 4
+és még: 4
+a hátizsákomat: 4
+a hátizsákot: 4
+e az: 4
+Az idő: 4
+mondom hogy: 4
+a gép: 4
+a földesur: 4
+azt mondom: 4
+11 én: 4
+Nem a: 4
+S copyright: 4
+part of: 4
+the trademark: 4
+you do: 4
+this eBook: 4
+You may: 4
+any other: 4
+in any: 4
+the phrase: 4
+phrase “Project: 4
+all the: 4
+with this: 4
+at www: 4
+a copy: 4
+E 8: 4
+“Project Gutenberg”: 4
+you can: 4
+associated with: 4
+laws of: 4
+in a: 4
+the laws: 4
+of any: 4
+for the: 4
+Gutenberg™ trademark: 4
+provide a: 4
+• You: 4
+to you: 4
+ma is: 3
+a szigeten: 3
+és minden: 3
+Ha a: 3
+ott is: 3
+maradt a: 3
+hiszen már: 3
+De most: 3
+már és: 3
+Hogy a: 3
+azért mert: 3
+mert olyan: 3
+talán egy: 3
+egy férfi: 3
+napra való: 3
+és hallgatózom: 3
+de azután: 3
+az utat: 3
+velünk hogy: 3
+a lányokat: 3
+e még: 3
+– Arra: 3
+És tovább: 3
+nem lehetett: 3
+nem sokat: 3
+rám és: 3
+látja hogy: 3
+az időt: 3
+– kérdezem: 3
+volt ez: 3
+vagyok az: 3
+és ha: 3
+akkor a: 3
+a tél: 3
+a föld: 3
+fát vág: 3
+majd csak: 3
+meg lesz: 3
+és közben: 3
+Grindhusen és: 3
+ugyan nem: 3
+már ott: 3
+– Ki: 3
+meg itt: 3
+amugy is: 3
+és Grindhusen: 3
+Rövid idő: 3
+pap is: 3
+Mikor a: 3
+volt elég: 3
+a tegnapi: 3
+fejét és: 3
+be az: 3
+Egyszerre csak: 3
+a házba: 3
+veszem a: 3
+és meg: 3
+a távolságot: 3
+abba a: 3
+Az öreg: 3
+be egy: 3
+erre a: 3
+már régen: 3
+igy szólt:: 3
+kisasszony is: 3
+nem lett: 3
+És amikor: 3
+a száját: 3
+el kellett: 3
+Azért mégis: 3
+kimentem a: 3
+a kisasszonyt: 3
+Csak egy: 3
+ennek a: 3
+ki kellett: 3
+került a: 3
+és mivel: 3
+volt De: 3
+– nem: 3
+És milyen: 3
+éppen a: 3
+akkor is: 3
+a neve: 3
+vele a: 3
+paphoz és: 3
+a sok: 3
+második emeleten: 3
+darabig azután: 3
+több mint: 3
+Nem szükséges: 3
+kell a: 3
+eltünt a: 3
+le a: 3
+a sapkámat: 3
+A papné: 3
+egy csapot: 3
+csapot kell: 3
+Igen azt: 3
+meg kellene: 3
+fordult a: 3
+kisasszony egy: 3
+eszébe jutott: 3
+hogy ilyen: 3
+azután az: 3
+volna és: 3
+azután a: 3
+domb tetején: 3
+hogy mégis: 3
+mint ahogy: 3
+a vizvezeték: 3
+ugy véli: 3
+véli hogy: 3
+volt egy: 3
+nap mulva: 3
+már ki: 3
+megint egy: 3
+másik után: 3
+munka a: 3
+egy jó: 3
+a temetőben: 3
+semmit sem: 3
+a szöget: 3
+a hideg: 3
+az apró: 3
+nem ismertem: 3
+minden rendben: 3
+Nem volt: 3
+egy uj: 3
+Még most: 3
+mint az: 3
+a magam: 3
+ott a: 3
+a városi: 3
+alapjában véve: 3
+éreztem hogy: 3
+hanem a: 3
+Körülbelül egy: 3
+Az erdőben: 3
+ahol a: 3
+volna hogy: 3
+egy régi: 3
+a nevemet: 3
+aki a: 3
+ugy mint: 3
+én pedig: 3
+hozzám a: 3
+Hát most: 3
+a férjem: 3
+– ha: 3
+egy csöppet: 3
+a legnagyobb: 3
+ezt az: 3
+odajött és: 3
+olyan szép: 3
+Az órák: 3
+órák multak: 3
+a pajtába: 3
+én meg: 3
+meg akartam: 3
+neki –: 3
+s azt: 3
+bár már: 3
+egy szép: 3
+én még: 3
+meg akarta: 3
+még egy: 3
+a férje: 3
+legalább nem: 3
+haza a: 3
+a boltban: 3
+is ott: 3
+fölmentem a: 3
+a tisztelendő: 3
+– Szeretném: 3
+azzal a: 3
+a képet: 3
+a szükséges: 3
+itt ott: 3
+vagyunk mi: 3
+tehát hogy: 3
+Egy este: 3
+Itt a: 3
+tudtam hogy: 3
+Ugy látszik: 3
+is de: 3
+a ló: 3
+még akkor: 3
+Ettől kezdve: 3
+egészen a: 3
+tudom –: 3
+hiszem hogy: 3
+hiszi hogy: 3
+Falkenberg meg: 3
+Hej ha: 3
+Az első: 3
+tele van: 3
+– Van: 3
+A lányok: 3
+– a: 3
+volt de: 3
+nagyszerüen ment: 3
+amint az: 3
+is hogy: 3
+a hátizsákból: 3
+és néha: 3
+no meg: 3
+neki a: 3
+Mit mondott: 3
+– Meg: 3
+– Hol: 3
+lesz egy: 3
+a te: 3
+Mikor Falkenberg: 3
+Most a: 3
+– Ne: 3
+ott állt: 3
+ezen az: 3
+az ővrebői: 3
+is? –: 3
+a bizonyitványt: 3
+Nem ez: 3
+kérdeztem –: 3
+van e: 3
+hiszen te: 3
+A kapitányné: 3
+felelte –: 3
+Ugy van: 3
+a szemei: 3
+lehet –: 3
+kijött a: 3
+akkor nem: 3
+mind a: 3
+de egy: 3
+udvaron és: 3
+a földeken: 3
+ez lesz: 3
+lesz a: 3
+hozzá? –: 3
+de hiszen: 3
+van itt: 3
+itt is: 3
+is Nem: 3
+Falkenberg egy: 3
+egy nap: 3
+nap és: 3
+bent a: 3
+a földben: 3
+azon a: 3
+A napok: 3
+napok multak: 3
+felelte: –: 3
+is ugy: 3
+felelte a: 3
+a barátom: 3
+barátom –: 3
+asszony kijött: 3
+a dalt: 3
+Én azonban: 3
+a szobába: 3
+van hátra: 3
+egy szót: 3
+és azután: 3
+és végül: 3
+– Falkenberg: 3
+az oka: 3
+közbe Falkenberg: 3
+Csak az: 3
+nem tudta: 3
+de ugy: 3
+Hiszen az: 3
+nem igen: 3
+Falkenberg kapitány: 3
+rendben van: 3
+hogy éppen: 3
+szólt közbe: 3
+tudom hogy: 3
+olyan jó: 3
+az emberekhez: 3
+érzi magát: 3
+is azt: 3
+ő meg: 3
+Emma is: 3
+nem felelt: 3
+el is: 3
+talán még: 3
+– feleli: 3
+itt –: 3
+nem lesz: 3
+mondja Falkenberg: 3
+egyáltalán nem: 3
+Mi az?: 3
+lenni –: 3
+és talán: 3
+vagy az: 3
+két hölgy: 3
+kapitányné –: 3
+– Ó: 3
+éppen most: 3
+mindegy hogy: 3
+Különben is: 3
+neki is: 3
+No ezt: 3
+és ujra: 3
+a régi: 3
+Talán egy: 3
+nem olyan: 3
+megy? –: 3
+az udvarról: 3
+ablakon és: 3
+nem akartam: 3
+a szemét: 3
+tegnap este: 3
+a felesége: 3
+igazán nem: 3
+Nem köszönöm: 3
+– gondolom: 3
+magamban –: 3
+mert nem: 3
+a kosarat: 3
+és megyek: 3
+– felelem: 3
+a bakról: 3
+az ülés: 3
+maga is: 3
+az ajtót: 3
+az udvar: 3
+– Istenem: 3
+No de: 3
+van két: 3
+eszembe ötlik: 3
+lépcsőn és: 3
+teszek mintha: 3
+Még nem: 3
+Előveszem a: 3
+hozzánk az: 3
+a padláson: 3
+padláson és: 3
+hátizsákot és: 3
+vasárnap van: 3
+Igen ám: 3
+ám csakhogy: 3
+csak ennyit: 3
+hogy igen: 3
+Nem csak: 3
+a használati: 3
+Az anya: 3
+az anya: 3
+asszony nem: 3
+adok neki: 3
+a földesurnál: 3
+Azt mondta: 3
+Mi a: 3
+a véleménye: 3
+kell az: 3
+az erdei: 3
+egy másik: 3
+találta föl: 3
+Igen a: 3
+A városba: 3
+az orrát: 3
+Többet nem: 3
+Egészen mindegy: 3
+– Erzsébet: 3
+a telefonhoz: 3
+amint a: 3
+a Városház: 3
+bemegyek a: 3
+a szállóba: 3
+copyright in: 3
+if you: 3
+trademark license: 3
+complying with: 3
+derivative works: 3
+mission of: 3
+free distribution: 3
+of electronic: 3
+or distributing: 3
+that you: 3
+not agree: 3
+agreement you: 3
+you paid: 3
+a fee: 3
+fee for: 3
+work and: 3
+you may: 3
+from the: 3
+the person: 3
+person or: 3
+or entity: 3
+as set: 3
+can do: 3
+do with: 3
+to Project: 3
+If an: 3
+an individual: 3
+are located: 3
+on the: 3
+check the: 3
+to or: 3
+on which: 3
+the use: 3
+gutenberg org: 3
+posted with: 3
+permission of: 3
+can be: 3
+paragraphs 1: 3
+E 7: 3
+and the: 3
+E 9: 3
+copyright holder: 3
+and any: 3
+at the: 3
+Do not: 3
+this electronic: 3
+charge a: 3
+any Project: 3
+donations to: 3
+refund of: 3
+in writing: 3
+days of: 3
+in this: 3
+Foundation the: 3
+you received: 3
+received the: 3
+to provide: 3
+or limitation: 3
+Information about: 3
+about the: 3
+and donations: 3
+how to: 3
+a tenger: 2
+talán már: 2
+is van: 2
+valamikor régen: 2
+talán valamelyik: 2
+a nyugalmat: 2
+is mint: 2
+és egyre: 2
+De akkor: 2
+akkor bizonyára: 2
+ahol csak: 2
+voltam az: 2
+És most: 2
+a város: 2
+jó lesz: 2
+magamban és: 2
+a legszebb: 2
+Ó hiszen: 2
+egyszer a: 2
+Ebben az: 2
+a nehéz: 2
+Ezek a: 2
+minden esztendőben: 2
+elmult már: 2
+és lám: 2
+sem akar: 2
+tesz mintha: 2
+a halászok: 2
+a válasz: 2
+csak azért: 2
+és finom: 2
+valami erős: 2
+Mikor tegnap: 2
+lődörögtem az: 2
+között egy: 2
+de olyan: 2
+ritkaság volt: 2
+az üveg: 2
+Este van: 2
+derék emberek: 2
+emberek hogy: 2
+a házat: 2
+De mivel: 2
+dolgozik a: 2
+hogy hogyan: 2
+Amikor pedig: 2
+vág a: 2
+a baltával: 2
+lesz és: 2
+ördög vigye: 2
+mondott volna: 2
+Hiszen ez: 2
+skreiai utépitésnél: 2
+és beszélgetni: 2
+mult el: 2
+hogy Grindhusen: 2
+maradt valami: 2
+akkor az: 2
+egész héten: 2
+a Grindhusen: 2
+Grindhusen ugy: 2
+valami vörös: 2
+ideig tart: 2
+Óh igen: 2
+– Hogyne: 2
+a végén: 2
+is rajta: 2
+mit is: 2
+is akartam: 2
+Ugy látom: 2
+az Isten: 2
+Már nem: 2
+nevetni kezd: 2
+aztán megint: 2
+igy szól:: 2
+szól: –: 2
+bizony meglehet: 2
+van ez: 2
+az embernek: 2
+pénze van: 2
+kijön a: 2
+házból és: 2
+– Szóval: 2
+te most: 2
+De Grindhusen: 2
+a falat: 2
+néhány óra: 2
+és beszélgetünk: 2
+Hogy én: 2
+hogy be: 2
+egy házat: 2
+persze hogy: 2
+ha azt: 2
+e ezt: 2
+Grindhusen már: 2
+kell mennie: 2
+akinek a: 2
+akad valami: 2
+Ha pedig: 2
+fekszik és: 2
+a kut: 2
+az már: 2
+a másikra: 2
+földre és: 2
+igaza van: 2
+már két: 2
+érzem magam: 2
+és esténként: 2
+észrevettem hogy: 2
+amikor egy: 2
+Én a: 2
+A hold: 2
+az ég: 2
+óra mulva: 2
+a szerszámokat: 2
+éjszaka lesz: 2
+rá hogy: 2
+ott áll: 2
+és onnan: 2
+mintha a: 2
+hozzá és: 2
+viszek egy: 2
+embert –: 2
+engem –: 2
+– Várj: 2
+vártam a: 2
+senki sem: 2
+hozzáfogtunk az: 2
+az ásáshoz: 2
+idő multán: 2
+szemei körül: 2
+a ráncok: 2
+dolgoztunk egy: 2
+és nézte: 2
+Nagyon csinos: 2
+fiu is: 2
+az is: 2
+A munka: 2
+csak ugy: 2
+égett a: 2
+bennünket Azután: 2
+Grindhusen hazament: 2
+voltak és: 2
+pap fia: 2
+bár nem: 2
+elég nagy: 2
+de mikor: 2
+kiderült hogy: 2
+a szád: 2
+ez csak: 2
+ültem és: 2
+és amennyire: 2
+azért örültem: 2
+megettem az: 2
+konyhába Miközben: 2
+Miközben ott: 2
+volt mert: 2
+fiatal volt: 2
+a kezei: 2
+Mikor már: 2
+igy szóltam:: 2
+szóltam: –: 2
+– Ezer: 2
+Ezer köszönet: 2
+lassan lassan: 2
+kiment a: 2
+győződve hogy: 2
+a lejtő: 2
+Hazafelé menet: 2
+Különben mi: 2
+közöm van: 2
+nekem a: 2
+és megkérdezte: 2
+a vihar: 2
+szólt: –: 2
+a mosoly: 2
+mosoly és: 2
+el A: 2
+ide az: 2
+ut szélére: 2
+volt számomra: 2
+az étel: 2
+a szája: 2
+a padon: 2
+mondta azután: 2
+nézett és: 2
+No majd: 2
+emberrel van: 2
+van dolga: 2
+a gazdaságban: 2
+egyre szaporodtak: 2
+meg kellett: 2
+a sor: 2
+mindent ki: 2
+volt nekem: 2
+nekem hogy: 2
+És emellett: 2
+csak amolyan: 2
+mivel nem: 2
+a viszony: 2
+egyszer csak: 2
+csak el: 2
+csak éppen: 2
+mindig nem: 2
+fölmásztam a: 2
+Rögtön láttam: 2
+Rendben van: 2
+is elegendő: 2
+kezdett hogy: 2
+mit csinálok: 2
+– Minek: 2
+– Engedj: 2
+Engedj engem: 2
+is oda: 2
+Azt hiszed?: 2
+talán meg: 2
+meg lehetne: 2
+pénzbe kerülne: 2
+igaz De: 2
+a vezeték: 2
+a munkával: 2
+néhány száz: 2
+száz koronába: 2
+Hát bizony: 2
+tartani –: 2
+föl kell: 2
+cipelni a: 2
+a hálószobákba: 2
+sem lehet: 2
+a vezetéket: 2
+második emeleten?: 2
+elég erős: 2
+Nem feleltem: 2
+– kiáltott: 2
+pap –: 2
+fölmentünk a: 2
+bebizonyitottam hogy: 2
+Majd beszélek: 2
+erről a: 2
+ért hozzá: 2
+rámnézett –: 2
+maga elé: 2
+mormogta: –: 2
+beszélek a: 2
+tiz perc: 2
+egész család: 2
+csinálni? –: 2
+dolog A: 2
+elfordult és: 2
+e ez: 2
+kell elforditani: 2
+És csak: 2
+hiszem meg: 2
+No akkor: 2
+dolog –: 2
+szót sem: 2
+sem szólt: 2
+hozzám fordult:: 2
+e majd: 2
+kérdezte az: 2
+jutott a: 2
+Meg azután: 2
+még egyet: 2
+én csak: 2
+megerősitettem a: 2
+volt elégedve: 2
+mert hiszen: 2
+is ki: 2
+ki kell: 2
+arcot vágott: 2
+hétfőn reggel: 2
+hozzá: –: 2
+elhatároztuk hogy: 2
+össze vissza: 2
+fog kerülni: 2
+csak azt: 2
+is szép: 2
+szép pénz: 2
+És én: 2
+tisztelendő ur: 2
+innen –: 2
+fog a: 2
+a nevem: 2
+vagy? –: 2
+többé nem: 2
+vizet a: 2
+nagyon rosszul: 2
+mulva már: 2
+A talaj: 2
+a falhoz: 2
+Ezt a: 2
+mig végre: 2
+hozzá kellett: 2
+a gödröt: 2
+megtudta hogy: 2
+nekem kellett: 2
+után az: 2
+hogy annál: 2
+a fejemet: 2
+Hiszen nem: 2
+némi kis: 2
+tudtam volna: 2
+ennek az: 2
+és szerettem: 2
+Grindhusen –: 2
+Egy szép: 2
+a mesterséget: 2
+Igy hát: 2
+kicsattanó piros: 2
+a kék: 2
+este a: 2
+meg De: 2
+már ilyen: 2
+a természet: 2
+hát nem: 2
+és azoknak: 2
+akkora mint: 2
+az anyja: 2
+már a: 2
+nem hivtak: 2
+Nekem is: 2
+Még mindig: 2
+De egyszer: 2
+illik rám: 2
+a jó: 2
+ruhát és: 2
+igazat megvallva: 2
+nevetve –: 2
+– az: 2
+már egy: 2
+egy féltucat: 2
+ez volt: 2
+az ilyesmihez: 2
+A kut: 2
+– Körülbelül: 2
+és kimentem: 2
+pillantást vet: 2
+volt Az: 2
+Még a: 2
+is találtam: 2
+nem tudja: 2
+hogy valaki: 2
+valaki a: 2
+második emeletig: 2
+Egy napon: 2
+nincs itt: 2
+itt valami: 2
+jött és: 2
+volt nehéz: 2
+nem látszott: 2
+meg hogy: 2
+ő –: 2
+ez ugyan: 2
+dolog volt: 2
+a földet: 2
+fönt az: 2
+az emeleten: 2
+egy hét: 2
+a padlóba: 2
+Erzsébet kisasszonynak: 2
+munkát –: 2
+ha majd: 2
+magad –: 2
+valami nagyon: 2
+örültem hogy: 2
+is emlékszem: 2
+a temető: 2
+temető felé: 2
+de amikor: 2
+valószinüleg meg: 2
+ember ez: 2
+jöjjön ide: 2
+este is: 2
+elmentem az: 2
+mikor pedig: 2
+is valamit: 2
+szerelmes voltam: 2
+– Hány: 2
+pedig már: 2
+hogy ilyenkor: 2
+Az ördögbe: 2
+ördögbe is: 2
+fülére huzta: 2
+huzta a: 2
+a következő: 2
+Pedig én: 2
+ember a: 2
+Egy ember: 2
+az udvarra: 2
+– te: 2
+hogy te: 2
+te már: 2
+feleltem én: 2
+– csodálkozott: 2
+csodálkozott –: 2
+igen ha: 2
+ha jól: 2
+hogy meg: 2
+isten tudja: 2
+két pokrócot: 2
+egész nap: 2
+hogy olyan: 2
+olyan volt: 2
+valami rendes: 2
+akarta mutatni: 2
+mutatni hogy: 2
+megkért hogy: 2
+néhány dolgot: 2
+el és: 2
+és hozzam: 2
+hát mégis: 2
+végig a: 2
+előtt az: 2
+pedig ugy: 2
+A ház: 2
+Szeretném az: 2
+az ablak: 2
+Hallottam hogy: 2
+mondja: –: 2
+– ami: 2
+A vizvezeték: 2
+helyén volt: 2
+sem lett: 2
+a krumpliásásnál: 2
+és vidáman: 2
+folyt a: 2
+láttuk hogy: 2
+ur és: 2
+fölajánlotta hogy: 2
+azután mégis: 2
+ha éppen: 2
+és várom: 2
+várom hogy: 2
+egy emberrel: 2
+és tudtam: 2
+Lars Falkenberg: 2
+a vezetőnk: 2
+és sokáig: 2
+szót és: 2
+a kérdésre: 2
+nem szivesen: 2
+járt a: 2
+végül is: 2
+is amikor: 2
+kezdve Falkenberg: 2
+Én is: 2
+a többiek: 2
+tovább és: 2
+és szomoru: 2
+volt semmi: 2
+a temetőbe: 2
+leültem egy: 2
+– Képzelje: 2
+csak –: 2
+– Tudom: 2
+Igen és: 2
+Azt hittem…: 2
+– Nos?: 2
+Nos? –: 2
+különös ember: 2
+a hosszu: 2
+hosszu utat: 2
+alatt –: 2
+te is: 2
+nem akarsz: 2
+feleltem –: 2
+Azt még: 2
+nem jól: 2
+nagyon rossz: 2
+rossz bőrben: 2
+azt hiszi: 2
+Igen legalább: 2
+az ellenkezőjét: 2
+ellenkezőjét –: 2
+ha fiatal: 2
+fiatal gazdag: 2
+gazdag szép: 2
+utnak eredtünk: 2
+a csillagok: 2
+hogy talán: 2
+magunk mögött: 2
+mögött hagytuk: 2
+kimegyünk az: 2
+a szélső: 2
+mire egy: 2
+e valami: 2
+a cselédek: 2
+Falkenberg mikor: 2
+lányok nem: 2
+vélte Falkenberg: 2
+a réten: 2
+Tudod mit: 2
+meg egy: 2
+Az én: 2
+végül mégis: 2
+az országutra: 2
+ment a: 2
+– Na: 2
+Na most: 2
+Már minden: 2
+Gágá gágá: 2
+is ezt: 2
+fölött és: 2
+a pompás: 2
+a szállást: 2
+Tegnap olyan: 2
+Nem vagyunk: 2
+a legénynek: 2
+Te hiszen: 2
+tovább –: 2
+azt tanácsolta: 2
+tanácsolta hogy: 2
+miatt nem: 2
+bizony nem: 2
+igy van: 2
+Az a: 2
+ahol zongora: 2
+zongora van: 2
+Falkenberg ott: 2
+maradt és: 2
+elő a: 2
+a közelben: 2
+ő a: 2
+a zongorával: 2
+az ellátás: 2
+talpon kell: 2
+kell lenni: 2
+a munkának: 2
+volt lepve: 2
+És mit: 2
+Még egy: 2
+Azt nem: 2
+Nagy Sándor: 2
+Ha nem: 2
+szeretnék a: 2
+elkészült a: 2
+hogy alig: 2
+A házikisasszony: 2
+is lesz: 2
+Isten önnel: 2
+eredtünk A: 2
+A hátizsákokat: 2
+hátizsákokat én: 2
+én cipeltem: 2
+Falkenberg ugy: 2
+a zongoráját: 2
+a szülők: 2
+Mikor beesteledett: 2
+Azt az: 2
+közepén és: 2
+No mi: 2
+a pipád: 2
+a szög: 2
+és eszembe: 2
+a körmöt: 2
+Mikor másnap: 2
+a zongorán: 2
+megjelent az: 2
+kérdezte a: 2
+most? –: 2
+Mikor az: 2
+dolog lesz: 2
+az ördög: 2
+rajta hogy: 2
+Egy darabig: 2
+pedig egy: 2
+– Nesze: 2
+Nesze itt: 2
+itt vannak: 2
+vannak a: 2
+– Mégis: 2
+hogy semmi: 2
+lehet hogy: 2
+– Kár: 2
+Kár hogy: 2
+is tudsz: 2
+hiszem már: 2
+felelte kurtán: 2
+és rögtön: 2
+mi lesz: 2
+lesz akkor?: 2
+Talán mégsem: 2
+be és: 2
+Az ablakokból: 2
+nagyságos asszony?: 2
+kapitányné kijött: 2
+Csak azt: 2
+nem hiszem: 2
+nincs idehaza: 2
+és már: 2
+nehogy zavarba: 2
+a figyelmét: 2
+Levettem a: 2
+sapkámat és: 2
+és rámnézett: 2
+az evéssel: 2
+e a: 2
+zongorát –: 2
+csodálkozástól –: 2
+A szomszéd: 2
+De nekem: 2
+Nem nincs: 2
+a szoba: 2
+Ez több: 2
+szó sem: 2
+semmi munka: 2
+Falkenberg még: 2
+hátizsákból és: 2
+erdőbe A: 2
+Nem még: 2
+Ért a: 2
+Nem is: 2
+annyit sem: 2
+és oldalról: 2
+marad a: 2
+a törzs: 2
+igy nem: 2
+törtem a: 2
+De talán: 2
+a rugó: 2
+mert ez: 2
+ebédet és: 2
+hogy jobb: 2
+legyen a: 2
+Még három: 2
+három lány: 2
+lány volt: 2
+kivül és: 2
+erdőben –: 2
+kérdezte néha: 2
+büszke voltam: 2
+voltam rá: 2
+rá mikor: 2
+Igen én: 2
+tönkre a: 2
+tréfásan –: 2
+Falkenberg is: 2
+Mit gondolsz: 2
+ki fog: 2
+fog jönni: 2
+közben És: 2
+baj lesz: 2
+énekelni kezdett: 2
+lenni a: 2
+az irigység: 2
+irigység –: 2
+– egy: 2
+Nem sajnos: 2
+sajnos nem: 2
+néha egy: 2
+nem? –: 2
+Nem ugy: 2
+még valamit: 2
+egy este: 2
+fogja a: 2
+magamban De: 2
+hangosan ezt: 2
+ezt mondtam:: 2
+jön haza: 2
+és felém: 2
+kértem –: 2
+Köszönöm én: 2
+semmit –: 2
+van hogy: 2
+róla a: 2
+De természetesen: 2
+a „Mákvirágról“: 2
+Falkenberg az: 2
+neked valamit: 2
+a kapitányéknál: 2
+megint ki: 2
+elénekelte a: 2
+sem fogja: 2
+– Ja: 2
+ha igy: 2
+láttam –: 2
+oka –: 2
+Nem ő: 2
+– kiáltotta: 2
+mint két: 2
+az erdőből: 2
+nekem szólt: 2
+az asszonyt: 2
+valakit aki: 2
+– Jobban: 2
+a földön: 2
+őt is: 2
+magamról beszélek: 2
+De Emma: 2
+bár én: 2
+este énekelni: 2
+a cselédszobába: 2
+cselédszobába a: 2
+a legények: 2
+menni a: 2
+hozzám: –: 2
+valami szerkezeten: 2
+jobb lesz: 2
+hogy hiába: 2
+Hiszen minden: 2
+a cselédszobában: 2
+és odalépett: 2
+vagyok –: 2
+No hogy: 2
+éppen csak: 2
+csak annyit: 2
+annyit amennyit: 2
+hó nem: 2
+nem kellene: 2
+azért nem: 2
+– Ön: 2
+szép hangja: 2
+nem én: 2
+én vagyok: 2
+vagyok A: 2
+maga az?: 2
+Hová való?: 2
+való? –: 2
+a szabadban: 2
+Ez nagyon: 2
+az élet: 2
+legjobb volna: 2
+ember az: 2
+tartotta a: 2
+sem pedig: 2
+félt hogy: 2
+De csak: 2
+majd meglátjuk: 2
+a tengelyeket: 2
+tengelyeket és: 2
+is nekem: 2
+hogy holnap: 2
+szükségem van: 2
+be akartam: 2
+udvaron állt: 2
+tudom hogy…: 2
+meg nem: 2
+Az utolsó: 2
+kellett mondanom: 2
+A feleségem: 2
+megy az: 2
+és kiváncsi: 2
+kedves kis: 2
+lehet telelni: 2
+az utazás: 2
+is elmulik: 2
+kijelentette hogy: 2
+már megint: 2
+magát és: 2
+és mindenfélét: 2
+a legalkalmasabb: 2
+– Gyerünk: 2
+a házhoz: 2
+legény meg: 2
+hiszen Emma: 2
+és kijelentették: 2
+kijelentették hogy: 2
+Nem fog: 2
+végre a: 2
+azt mondták: 2
+mi is: 2
+ő csak: 2
+erdő felé: 2
+és csendes: 2
+már itt: 2
+a vasutépitéshez: 2
+volna De: 2
+rövid idő: 2
+az embert: 2
+– Igenis: 2
+tudni akarod: 2
+idő mulva: 2
+hogy nincs: 2
+nem láttam: 2
+Falkenbergnek jó: 2
+jó orra: 2
+Falkenberg nem: 2
+Igen mondtam: 2
+mondtam hogy: 2
+vele? –: 2
+De unják: 2
+unják egymást: 2
+Ha az: 2
+bejön a: 2
+mintha nem: 2
+a fákat: 2
+és ekkor: 2
+asszony már: 2
+a kagylót: 2
+kagylót és: 2
+Megráztam a: 2
+rajta és: 2
+közelebb jött: 2
+teljes erőmmel: 2
+ébredtem föl: 2
+– Láttam: 2
+hogy legjobb: 2
+legjobb lesz: 2
+aludni most: 2
+már jobban: 2
+jobban van: 2
+Másnap reggel: 2
+ut mentén: 2
+kérdés nem: 2
+nem akarja: 2
+a koporsószeg: 2
+Péter még: 2
+mindig beteg: 2
+tartottam a: 2
+A kocsi: 2
+Ha tudnád: 2
+hozzám az: 2
+valamit mondjak: 2
+már késő: 2
+jut eszembe: 2
+emlitette a: 2
+majd megmutatom: 2
+mondta: –: 2
+Igen igen: 2
+Ma este: 2
+akad még: 2
+is valami: 2
+egészen sötét: 2
+pedig az: 2
+nekem kell: 2
+A szoba: 2
+az éneket: 2
+– azt: 2
+négy napig: 2
+Én pedig: 2
+azt gondoltam: 2
+abban hogy: 2
+Az udvar: 2
+ki és: 2
+a szerkezetet: 2
+rugót egy: 2
+volt szabad: 2
+megnehezitette a: 2
+odajött hozzám: 2
+fürészt –: 2
+a munkást: 2
+hogy még: 2
+A hölgyek: 2
+– Természetesen: 2
+hogy ennyire: 2
+hogy ugy: 2
+egyedül az: 2
+magát –: 2
+és azért: 2
+kivánja –: 2
+– Dehogy: 2
+a magyarázat: 2
+a fejemben: 2
+a kocsiban: 2
+Csipős hideg: 2
+lett az: 2
+az órák: 2
+s az: 2
+korán van: 2
+– kiáltották: 2
+Az ut: 2
+talán az: 2
+az országuton: 2
+zavarba hozzam: 2
+és nevetett: 2
+hogy vidám: 2
+minden nap: 2
+nap az: 2
+beszélgettek hogy: 2
+a bort: 2
+nincs már: 2
+ember vagyok: 2
+Ott találom: 2
+azokat a: 2
+megkérdeztem hogy: 2
+mit csinál: 2
+csinál a: 2
+tudta a: 2
+Falkenberg kapitányéknál: 2
+nem mond: 2
+embert aki: 2
+állt az: 2
+ezek az: 2
+és befogtam: 2
+befogtam a: 2
+Itt nem: 2
+a helyen: 2
+– Szerettem: 2
+Nem tudtam: 2
+pajtában aludtam: 2
+– Igen…: 2
+kedves volt: 2
+olyan kedves: 2
+kedves és: 2
+járt az: 2
+az eszemben: 2
+jött a: 2
+olyan furcsa: 2
+asszony az: 2
+ur meg: 2
+nézett rám: 2
+és jól: 2
+éppen jó: 2
+– Legyen: 2
+asszony nincs: 2
+Egyik óra: 2
+a kunyhóba: 2
+valamit –: 2
+– mert: 2
+és barátságosan: 2
+köszönöm szépen: 2
+mi egészen: 2
+A kávé: 2
+a csészét: 2
+a kezemben: 2
+felém fordul: 2
+asszony és: 2
+jól van: 2
+és látom: 2
+mondom magamban: 2
+csészét és: 2
+szemét és: 2
+kérdi: –: 2
+a padra: 2
+és anélkül: 2
+– Volt: 2
+asszony? –: 2
+az órájára: 2
+mentem hogy: 2
+alá hogy: 2
+mondta Falkenbergné: 2
+ajtót és: 2
+adni a: 2
+Olyan sötét: 2
+sötét van: 2
+bakról és: 2
+a kocsi: 2
+bejárat előtt: 2
+ha itt: 2
+Talán azt: 2
+mit akarok: 2
+akarok –: 2
+Az Isten: 2
+a kapitányhoz: 2
+hiszen holnap: 2
+elmulik a: 2
+pillanatban eszembe: 2
+ötlik hogy: 2
+és mikor: 2
+a verejték: 2
+voltál? –: 2
+valamit a: 2
+felelem –: 2
+ezt nem: 2
+lehetett volna: 2
+fáradt vagyok: 2
+vagyok de: 2
+mégis a: 2
+Hát akkor: 2
+kérdezem –: 2
+nem volna: 2
+kapitányt –: 2
+Hiszen a: 2
+két ember: 2
+ember helyett: 2
+át a: 2
+az hogy: 2
+a saját: 2
+ha már: 2
+a barátjával: 2
+volt És: 2
+én sem: 2
+megkérdeztem: –: 2
+óra van: 2
+Kész vagyok: 2
+ez? –: 2
+Csak nem: 2
+Ez nem: 2
+és nevet: 2
+nagyságos asszonynak: 2
+Hirtelen eszembe: 2
+Falkenberg bizonyára: 2
+bizonyára nem: 2
+hideg volt: 2
+volt csak: 2
+kellett a: 2
+Hahaha De: 2
+a padlásra: 2
+mit kell: 2
+ugy teszek: 2
+vállamra vetem: 2
+vissza a: 2
+megyek Az: 2
+ez is: 2
+még csak: 2
+aludtam és: 2
+és miután: 2
+Itt ott: 2
+is ha: 2
+A reggeli: 2
+hol van: 2
+is annyira: 2
+bizonyára csak: 2
+haza és: 2
+Péter hazajött: 2
+– Jól: 2
+volna? –: 2
+bizonyára már: 2
+már elmult: 2
+a választási: 2
+választási biztos: 2
+vettem egy: 2
+Nem kellett: 2
+holnap vasárnap: 2
+a zsákomban: 2
+ülök a: 2
+udvaron –: 2
+Ebben a: 2
+az őszi: 2
+hogy nagyon: 2
+az utra: 2
+kérdezi a: 2
+mert ilyen: 2
+– Tán: 2
+a zsákomat: 2
+– Hm: 2
+az asszonynak: 2
+asszonynak –: 2
+ez tényleg: 2
+a zsebembe: 2
+de ilyet: 2
+a varrógép: 2
+és be: 2
+a varrógépet: 2
+további nélkül: 2
+szállást kértem: 2
+nappal lesz: 2
+a kislány: 2
+fönn kell: 2
+kell lennie: 2
+hogy annak: 2
+használati utasitást: 2
+a lányka: 2
+amikor az: 2
+egy pillanatra: 2
+a gépre: 2
+és egyideig: 2
+hál’ Istennek: 2
+a férfi: 2
+kijelentem hogy: 2
+A kép: 2
+a Hersaet?: 2
+Hersaet? –: 2
+ül és: 2
+hogy neki: 2
+is menjen: 2
+az urnak: 2
+köszönetet mond: 2
+kis borju: 2
+is igy: 2
+egészen más: 2
+épp ugy: 2
+bő kabátjában: 2
+maga a: 2
+talán lesz: 2
+lesz szerencsém: 2
+leszek és: 2
+a célom: 2
+megengedte hogy: 2
+a képért: 2
+meg leszek: 2
+e meg: 2
+kellett vinnem: 2
+A földesur: 2
+nincs semmi: 2
+Nem tudok: 2
+most volt: 2
+Ott állt: 2
+hogy csak: 2
+a földesurhoz: 2
+ha ha: 2
+konyhába –: 2
+jó adag: 2
+konyhában és: 2
+hatósági ember: 2
+semmi a: 2
+magához a: 2
+Az ur: 2
+nagyon jól: 2
+erdei munka: 2
+de mivel: 2
+nagy tömeg: 2
+a földesurnak: 2
+a postára: 2
+szereztem és: 2
+Másnap a: 2
+kellett mennem: 2
+a levelemet: 2
+fölbontom a: 2
+és olvasom:: 2
+és kedvesen: 2
+Ne _irjon_: 2
+egy gondolatjel: 2
+ami egy: 2
+a postát: 2
+és miért: 2
+a boritékot: 2
+a bájos: 2
+Maga azt: 2
+egy gépet: 2
+az erdőbirtokosok: 2
+értem a: 2
+kis levelet: 2
+kapitány nem: 2
+a gazdám: 2
+olyan sokáig: 2
+gondoltam hogy: 2
+tartsa szemmel: 2
+volt s: 2
+Legyen szives: 2
+Ez volt: 2
+a levélről: 2
+szelidség és: 2
+hogy mikor: 2
+jövök és: 2
+Egy idegen: 2
+levelet irtam: 2
+mennie –: 2
+irt az: 2
+ártatlan –: 2
+Tudja mit: 2
+az intrikákon: 2
+Te vagy: 2
+adtam a: 2
+e? –: 2
+Igen nagyon: 2
+és sok: 2
+közeledem a: 2
+Igen az: 2
+ide és: 2
+kapitány is: 2
+elutazott? –: 2
+fintorgatta az: 2
+Nem a’: 2
+a cimet: 2
+karácsonyi bevásárlásra: 2
+– Hadd: 2
+csomagba és: 2
+az asszonnyal: 2
+városba készülök: 2
+megszólal: –: 2
+elmegyek Erzsébet: 2
+Erzsébet kisasszonyhoz: 2
+De magát: 2
+– Bizony: 2
+a Victoria: 2
+– Várjon: 2
+a városban?: 2
+városban? –: 2
+ezt mondja: 2
+– Hamarosan: 2
+a vidéken: 2
+Arra gondoltam: 2
+megtehetjük –: 2
+lehetünk –: 2
+lenni és: 2
+és mert: 2
+kaphatom meg: 2
+– Ezt: 2
+nem akar: 2
+akar szerelmes: 2
+szerelmes lenni: 2
+nem tett: 2
+Fölugrom és: 2
+mondom neki: 2
+Városház utcába: 2
+utcába és: 2
+a kocsisok: 2
+kimegyek és: 2
+A kocsisok: 2
+a szállodára: 2
+szállóba –: 2
+a hugom: 2
+szobalány van: 2
+a szobalány: 2
+a portáshoz: 2
+egy ur: 2
+aki éppen: 2
+idő mulik: 2
+amikor fölébredek: 2
+telefonhoz sietek: 2
+sietek és: 2
+megkérdezem hogy: 2
+nem utazott: 2
+utazott el: 2
+Most 5: 2
+5 óra: 2
+egy vidéki: 2
+– _A: 2
+_A ford: 2
+ford _]: 2
+OF THE: 2
+PROJECT GUTENBERG: 2
+editions will: 2
+will be: 2
+the works: 2
+owns a: 2
+and distribute: 2
+States without: 2
+without paying: 2
+General Terms: 2
+Terms of: 2
+of Use: 2
+this license: 2
+distributing Project: 2
+protect the: 2
+a registered: 2
+registered trademark: 2
+trademark and: 2
+be used: 2
+not charge: 2
+for copies: 2
+such as: 2
+may be: 2
+Gutenberg™ mission: 2
+of promoting: 2
+the free: 2
+works by: 2
+other work: 2
+work associated: 2
+associated in: 2
+any way: 2
+way with: 2
+with all: 2
+or online: 2
+online at: 2
+works 1: 2
+any part: 2
+work you: 2
+you have: 2
+to and: 2
+intellectual property: 2
+return or: 2
+or destroy: 2
+destroy all: 2
+all copies: 2
+obtaining a: 2
+copy of: 2
+of or: 2
+to a: 2
+and you: 2
+to be: 2
+be bound: 2
+bound by: 2
+Gutenberg” is: 2
+There are: 2
+are a: 2
+full terms: 2
+See paragraph: 2
+1 C: 2
+with Project: 2
+agreement and: 2
+below 1: 2
+The Project: 2
+the collection: 2
+are in: 2
+public domain: 2
+by copyright: 2
+law in: 2
+States and: 2
+located in: 2
+we do: 2
+or creating: 2
+creating derivative: 2
+works based: 2
+based on: 2
+all references: 2
+references to: 2
+you will: 2
+in compliance: 2
+compliance with: 2
+agreement for: 2
+where you: 2
+state of: 2
+outside the: 2
+displaying performing: 2
+The Foundation: 2
+status of: 2
+other than: 2
+with active: 2
+active links: 2
+immediate access: 2
+work on: 2
+which the: 2
+at no: 2
+under the: 2
+are not: 2
+individual Project: 2
+is posted: 2
+and distributed: 2
+or providing: 2
+providing access: 2
+a work: 2
+must comply: 2
+1 through: 2
+through 1: 2
+obtain permission: 2
+8 or: 2
+or 1: 2
+9 1: 2
+the permission: 2
+and distribution: 2
+found at: 2
+or distribute: 2
+“Plain Vanilla: 2
+Vanilla ASCII”: 2
+ASCII” or: 2
+the official: 2
+fee or: 2
+a means: 2
+means of: 2
+or a: 2
+specified in: 2
+with paragraph: 2
+the owner: 2
+owner of: 2
+to donate: 2
+under this: 2
+Royalty payments: 2
+which you: 2
+in Section: 2
+Section 4: 2
+You provide: 2
+a full: 2
+full refund: 2
+any money: 2
+money paid: 2
+a user: 2
+of receipt: 2
+a physical: 2
+physical medium: 2
+in accordance: 2
+accordance with: 2
+paid for: 2
+a replacement: 2
+replacement copy: 2
+a defect: 2
+defect in: 2
+within 90: 2
+90 days: 2
+Section 3: 2
+F 1: 2
+volunteers and: 2
+considerable effort: 2
+Gutenberg™ collection: 2
+the medium: 2
+a copyright: 2
+Except for: 2
+all liability: 2
+costs and: 2
+and expenses: 2
+expenses including: 2
+including legal: 2
+legal fees: 2
+YOU AGREE: 2
+AGREE THAT: 2
+BREACH OF: 2
+written explanation: 2
+in lieu: 2
+lieu of: 2
+refund If: 2
+work electronically: 2
+WARRANTIES OF: 2
+of certain: 2
+disclaimer or: 2
+the state: 2
+agreement shall: 2
+to make: 2
+permitted by: 2
+the widest: 2
+donations from: 2
+in all: 2
+and how: 2
+page at: 2
+Foundation is: 2
+tax exempt: 2
+exempt status: 2
+The Foundation’s: 2
+number of: 2
+works that: 2
+be freely: 2
+donations in: 2
+not solicit: 2
+where we: 2
+we have: 2
+have not: 2
+of compliance: 2
+any particular: 2
+gutenberg org/donate: 2
+we cannot: 2
+Gutenberg™ eBooks: 2
+new eBooks: 2
+
+3-GRAMs
+--------
+a nagyságos asszony: 18
+Project Gutenberg™ electronic: 18
+– Igen –: 14
+the Project Gutenberg: 14
+Project Gutenberg Literary: 13
+Gutenberg Literary Archive: 13
+Literary Archive Foundation: 13
+the United States: 12
+Gutenberg™ electronic works: 12
+the terms of: 12
+the Project Gutenberg™: 12
+A nagyságos asszony: 11
+– De hiszen: 10
+– mondta a: 10
+– mondta Falkenberg: 10
+terms of this: 10
+of this agreement: 10
+– mondta –: 9
+azt mondta hogy: 8
+in the United: 8
+set forth in: 8
+Project Gutenberg™ License: 8
+of Project Gutenberg™: 8
+– mondja –: 7
+– mondom –: 7
+az asszony –: 7
+a levelet és: 7
+of the Project: 7
+to the Project: 7
+– Azt hiszem: 6
+– mondom és: 6
+Gutenberg™ electronic work: 6
+azt mondja hogy: 5
+– Hát persze: 5
+– felelte Falkenberg: 5
+mondta Falkenberg –: 5
+not protected by: 5
+by U S: 5
+terms of the: 5
+a Project Gutenberg™: 5
+in paragraph 1: 5
+paragraph 1 E: 5
+Project Gutenberg™ works: 5
+full Project Gutenberg™: 5
+Project Gutenberg™ work: 5
+1 E 1: 5
+1 F 3: 5
+az öreg Gunhild: 4
+– No igen: 4
+nézte a munkát: 4
+az erdőbe és: 4
+eszembe jutott hogy: 4
+– Igazad van: 4
+– mondta az: 4
+– mondta és: 4
+a konyhába és: 4
+– kérdezte –: 4
+– mondtam –: 4
+egész idő alatt: 4
+– Nincs –: 4
+a fejem és: 4
+a kapitány –: 4
+– De igen: 4
+azt hitte hogy: 4
+protected by U: 4
+U S copyright: 4
+S copyright law: 4
+part of this: 4
+the phrase “Project: 4
+at www gutenberg: 4
+1 E 8: 4
+work or any: 4
+the full Project: 4
+Project Gutenberg™ trademark: 4
+De hiszen az: 3
+– Hogy a: 3
+volt ez a: 3
+– Hát te: 3
+volt és a: 3
+volt a neve: 3
+a paphoz és: 3
+egy darabig azután: 3
+– Nem szükséges: 3
+eltünt a házban: 3
+egy csapot kell: 3
+– fordult a: 3
+mondta a papné: 3
+– Ez az: 3
+a domb tetején: 3
+ugy véli hogy: 3
+a másik után: 3
+– Hát nem: 3
+Még most is: 3
+és azt mondja: 3
+mondta az asszony: 3
+– No ez: 3
+a kisasszony –: 3
+– mondtam neki: 3
+mondtam neki hogy: 3
+egy szép napon: 3
+A tiszteletes ur: 3
+a fiatal Erik: 3
+– Miért nem: 3
+felelte Falkenberg –: 3
+– Talán a: 3
+– Most a: 3
+Láttam hogy a: 3
+– kérdeztem –: 3
+– felelte –: 3
+– Ugy van: 3
+Ugy van –: 3
+és a szemei: 3
+mind a ketten: 3
+az udvaron és: 3
+hozzá? – Igen: 3
+hogy az asszony: 3
+van – felelte: 3
+– felelte a: 3
+hogy a nagyságos: 3
+Csak az a: 3
+– szólt közbe: 3
+– mondja Falkenberg: 3
+– Mi az?: 3
+Mi az? –: 3
+– De ha: 3
+A két hölgy: 3
+a kapitányné –: 3
+az ablakon és: 3
+De én nem: 3
+– mondja a: 3
+– És a: 3
+Igen – Ugy: 3
+– Nem köszönöm: 3
+látom hogy a: 3
+a lépcsőn és: 3
+– A nagyságos: 3
+eszembe jut hogy: 3
+a padláson és: 3
+a hátizsákot és: 3
+Tán csak nem: 3
+– Nem csak: 3
+Most már csak: 3
+azt mondom hogy: 3
+Mi a véleménye: 3
+ezt a levelet: 3
+találta föl a: 3
+– A városba: 3
+bemegyek a szállóba: 3
+– Nem a: 3
+the trademark license: 3
+you do not: 3
+complying with the: 3
+free distribution of: 3
+of electronic works: 3
+all the terms: 3
+not agree to: 3
+this agreement you: 3
+copies of Project: 3
+electronic works in: 3
+person or entity: 3
+as set forth: 3
+forth in paragraph: 3
+you can do: 3
+can do with: 3
+If an individual: 3
+you are located: 3
+laws of the: 3
+If you are: 3
+the laws of: 3
+this work or: 3
+to the full: 3
+phrase “Project Gutenberg”: 3
+the use of: 3
+www gutenberg org: 3
+electronic work is: 3
+permission of the: 3
+of the copyright: 3
+paragraphs 1 E: 3
+1 E 7: 3
+of the work: 3
+1 E 9: 3
+the copyright holder: 3
+this electronic work: 3
+any Project Gutenberg™: 3
+paragraph 1 F: 3
+you received the: 3
+received the work: 3
+– de a: 2
+gondolom magamban és: 2
+hogy az öreg: 2
+azért mert olyan: 2
+Hiszen ez nem: 2
+a skreiai utépitésnél: 2
+Grindhusen meg én: 2
+és a ház: 2
+De ez a: 2
+ez a Grindhusen: 2
+még a skreiai: 2
+mit is akartam: 2
+– Már nem: 2
+igy szól: –: 2
+a házból és: 2
+– Hogy én: 2
+akad valami munka: 2
+a földre és: 2
+talán nem is: 2
+hozzáfogtunk az ásáshoz: 2
+Grindhusen meg volt: 2
+Rövid idő multán: 2
+a pap is: 2
+és nézte a: 2
+Nagyon csinos volt: 2
+a pap fia: 2
+nem volt elég: 2
+be a szád: 2
+megettem az ebédet: 2
+a konyhába Miközben: 2
+és igy szóltam:: 2
+igy szóltam: –: 2
+– Ezer köszönet: 2
+a fejét és: 2
+kiment a konyhából: 2
+hogy a kutat: 2
+és a vizet: 2
+és igy szólt:: 2
+igy szólt: –: 2
+Ez a mosoly: 2
+a mosoly és: 2
+és ez a: 2
+kisasszony is odajött: 2
+nem lett volna: 2
+hogy egy kicsit: 2
+– mondta azután: 2
+emberrel van dolga: 2
+került a sor: 2
+Rögtön láttam hogy: 2
+hogy mit csinálok: 2
+– Engedj engem: 2
+– Azt hiszed?: 2
+is meg kell: 2
+néhány száz koronába: 2
+– Hát bizony: 2
+De hiszen a: 2
+– A második: 2
+A második emeleten: 2
+a pap –: 2
+fölmentünk a dombra: 2
+az egész család: 2
+a dolog A: 2
+csak egy csapot: 2
+csapot kell elforditani: 2
+és a viz: 2
+szót sem szólt: 2
+hozzám fordult: –: 2
+lesz e majd: 2
+– kérdezte az: 2
+kérdezte az asszony: 2
+Ez az ember: 2
+azután az egész: 2
+és egy kis: 2
+és nem volt: 2
+meg volt elégedve: 2
+hogy a domb: 2
+már ki is: 2
+vagy pedig a: 2
+és szerettem volna: 2
+Egy szép napon: 2
+ez a kis: 2
+hogy a magam: 2
+ez volt az: 2
+volt az egész: 2
+– De az: 2
+– És az: 2
+– Körülbelül egy: 2
+és azt mondtam: 2
+volna hogy egy: 2
+a második emeletig: 2
+– Hát most: 2
+csöppet sem volt: 2
+No ez ugyan: 2
+fönt az emeleten: 2
+mondta a kisasszony: 2
+nem volt valami: 2
+volt valami nagyon: 2
+most is emlékszem: 2
+a temető felé: 2
+láttam hogy egy: 2
+Az órák multak: 2
+Az ördögbe is: 2
+fülére huzta a: 2
+huzta a takarót: 2
+és a következő: 2
+Pedig én meg: 2
+az ember a: 2
+mondtam neki –: 2
+feleltem én –: 2
+– csodálkozott –: 2
+meg akarta mutatni: 2
+akarta mutatni hogy: 2
+előtt az uton: 2
+Igazad van –: 2
+a helyén volt: 2
+hogy ez a: 2
+a tiszteletes ur: 2
+és várom hogy: 2
+és tudtam hogy: 2
+volt a vezetőnk: 2
+– Hát a: 2
+erre a kérdésre: 2
+láttam hogy nem: 2
+még akkor is: 2
+Ettől kezdve Falkenberg: 2
+egy csöppet sem: 2
+nem volt semmi: 2
+– Igen és: 2
+nem tudom –: 2
+– Nos? –: 2
+– feleltem –: 2
+– Azt még: 2
+hogy nem jól: 2
+nagyon rossz bőrben: 2
+azt hiszi hogy: 2
+– Igen legalább: 2
+az ellenkezőjét –: 2
+ha fiatal gazdag: 2
+Falkenberg meg én: 2
+magunk mögött hagytuk: 2
+kimegyünk az erdőbe: 2
+jött ki a: 2
+e valami munka: 2
+– vélte Falkenberg: 2
+Falkenberg – a: 2
+és a pompás: 2
+– Te hiszen: 2
+azt tanácsolta hogy: 2
+– De a: 2
+ha az ember: 2
+ahol zongora van: 2
+elő a hátizsákból: 2
+Falkenberg a zongorát: 2
+– Mit mondott: 2
+– És mit: 2
+– Ez a: 2
+– Ha nem: 2
+eredtünk A hátizsákokat: 2
+A hátizsákokat én: 2
+hátizsákokat én cipeltem: 2
+közepén és a: 2
+– No mi: 2
+– Itt a: 2
+és eszembe jutott: 2
+Mikor másnap reggel: 2
+– kérdezte a: 2
+is – De: 2
+ezt a bizonyitványt: 2
+De most már: 2
+– Nem ez: 2
+itt vannak a: 2
+hiszen te nem: 2
+te nem is: 2
+nem is tudsz: 2
+– felelte kurtán: 2
+mi lesz akkor?: 2
+de nem volt: 2
+– A kapitány: 2
+Nincs – Hát: 2
+a nagyságos asszony?: 2
+A kapitányné kijött: 2
+– Csak azt: 2
+– Nem tudom: 2
+a sapkámat és: 2
+– Nem nincs: 2
+láttam hogy a: 2
+Ez több mint: 2
+udvaron és a: 2
+Falkenberg még mindig: 2
+a hátizsákból és: 2
+az erdőbe A: 2
+Igen – Akkor: 2
+fordult: – Hát: 2
+egy nap és: 2
+és ez lesz: 2
+az erdőben –: 2
+– kérdezte néha: 2
+büszke voltam rá: 2
+– Igen én: 2
+neki hogy nem: 2
+Most már nem: 2
+ki fog jönni: 2
+felelte a barátom: 2
+a barátom –: 2
+nagyságos asszony kijött: 2
+asszony kijött és: 2
+az irigység –: 2
+Igen – felelte: 2
+Nem sajnos nem: 2
+néha egy egy: 2
+– Nem ugy: 2
+hangosan ezt mondtam:: 2
+ezt mondtam: –: 2
+kértem – És: 2
+A napok multak: 2
+itt van még: 2
+– mondtam és: 2
+ugy mint azelőtt: 2
+mondta a nagyságos: 2
+az oka –: 2
+– Nem ő: 2
+itt van a: 2
+asszony a konyhában: 2
+a cselédszobába a: 2
+hogy valami szerkezeten: 2
+de ugy látszik: 2
+jobb lesz ha: 2
+– No hogy: 2
+a kapitány ur: 2
+szólt közbe Falkenberg: 2
+– Hová való?: 2
+Hová való? –: 2
+legjobb volna ha: 2
+nem volt a: 2
+a tengelyeket és: 2
+tengelyeket és a: 2
+meg – mondta: 2
+hogy az egyik: 2
+hogy a lány: 2
+és kijelentették hogy: 2
+– Nem fog: 2
+Falkenbergnek jó orra: 2
+hogy ő nem: 2
+– De unják: 2
+De unják egymást: 2
+mintha nem is: 2
+mondja Falkenberg –: 2
+a kagylót és: 2
+ebben a pillanatban: 2
+Megráztam a fejem: 2
+legjobb lesz ha: 2
+már jobban van: 2
+jobban van és: 2
+– Csak az: 2
+az a kérdés: 2
+a kérdés nem: 2
+Péter még mindig: 2
+még mindig beteg: 2
+hogy ezt a: 2
+már egészen sötét: 2
+– azt hiszem: 2
+ugy hogy a: 2
+a fürészt –: 2
+Erzsébet kisasszony is: 2
+is odajött és: 2
+megkérdezte: – Nem: 2
+– No ezt: 2
+– A kisasszony: 2
+– Igen azt: 2
+ez a magyarázat: 2
+s az egyik: 2
+nap az erdőben: 2
+És a kisasszony: 2
+hogy mit csinál: 2
+mit csinál a: 2
+mondja a kisasszony: 2
+hogy Falkenberg kapitányéknál: 2
+volt hogy a: 2
+és befogtam a: 2
+ezen a helyen: 2
+– Szerettem volna: 2
+olyan kedves és: 2
+járt az eszemben: 2
+meg a felesége: 2
+nagyságos asszony nincs: 2
+be a kunyhóba: 2
+– gondolom magamban: 2
+– mert nem: 2
+nagyságos asszony és: 2
+és látom hogy: 2
+a szemét és: 2
+hogy a kosarat: 2
+és anélkül hogy: 2
+asszony? – Igen: 2
+az ajtót és: 2
+Olyan sötét van: 2
+a bakról és: 2
+Talán azt hitte: 2
+és én még: 2
+pillanatban eszembe ötlik: 2
+eszembe ötlik hogy: 2
+voltál? – kérdezi: 2
+– felelem –: 2
+de most már: 2
+– Hát akkor: 2
+– kérdezem –: 2
+a kapitányt –: 2
+két ember helyett: 2
+– Még nem: 2
+Még nem tudom: 2
+megkérdeztem: – És: 2
+hogy a kapitány: 2
+Falkenberg bizonyára nem: 2
+hozzánk az erdőbe: 2
+és ugy teszek: 2
+ugy teszek mintha: 2
+még csak az: 2
+nem is annyira: 2
+Nem kellett volna: 2
+holnap vasárnap van: 2
+az udvaron –: 2
+hogy az én: 2
+Igen ám csakhogy: 2
+és nem is: 2
+– kérdezi a: 2
+– Tán csak: 2
+az asszonynak –: 2
+– No de: 2
+No de ilyet: 2
+a használati utasitást: 2
+kijelentem hogy nem: 2
+az a Hersaet?: 2
+a Hersaet? –: 2
+már csak a: 2
+hogy ő is: 2
+talán lesz szerencsém: 2
+a konyhába –: 2
+az erdei munka: 2
+fölbontom a levelet: 2
+levelet és olvasom:: 2
+levelet és a: 2
+lenni – mondom: 2
+én – És: 2
+– Igen a: 2
+egy kis levelet: 2
+a kapitány nem: 2
+hogy az első: 2
+és azt mondom: 2
+– Te vagy: 2
+Te vagy az: 2
+neki hogy a: 2
+– Igen nagyon: 2
+de a kapitány: 2
+mondja hogy nem: 2
+– Igen az: 2
+elutazott? – Nem: 2
+fintorgatta az orrát: 2
+az asszony a: 2
+– Nem a’: 2
+elmegyek Erzsébet kisasszonyhoz: 2
+a városban? –: 2
+hogy nem akar: 2
+nem akar szerelmes: 2
+akar szerelmes lenni: 2
+mondom neki hogy: 2
+a Városház utcába: 2
+Városház utcába és: 2
+a szállóba –: 2
+Az idő mulik: 2
+a telefonhoz sietek: 2
+telefonhoz sietek és: 2
+Nem a nagyságos: 2
+nagyságos asszony nem: 2
+asszony nem utazott: 2
+nem utazott el: 2
+Most 5 óra: 2
+– _A ford: 2
+_A ford _]: 2
+United States without: 2
+General Terms of: 2
+Terms of Use: 2
+of this license: 2
+distributing Project Gutenberg™: 2
+is a registered: 2
+a registered trademark: 2
+use of the: 2
+If you do: 2
+for copies of: 2
+Project Gutenberg™ mission: 2
+Gutenberg™ mission of: 2
+mission of promoting: 2
+the free distribution: 2
+distribution of electronic: 2
+electronic works by: 2
+any other work: 2
+other work associated: 2
+associated in any: 2
+in any way: 2
+any way with: 2
+with the phrase: 2
+comply with all: 2
+or online at: 2
+online at www: 2
+any part of: 2
+do not agree: 2
+agreement you must: 2
+return or destroy: 2
+or destroy all: 2
+destroy all copies: 2
+all copies of: 2
+a fee for: 2
+obtaining a copy: 2
+access to a: 2
+agree to be: 2
+to be bound: 2
+be bound by: 2
+bound by the: 2
+by the terms: 2
+the person or: 2
+“Project Gutenberg” is: 2
+There are a: 2
+the full terms: 2
+full terms of: 2
+See paragraph 1: 2
+with Project Gutenberg™: 2
+this agreement and: 2
+The Project Gutenberg: 2
+copyright in the: 2
+in the collection: 2
+copyright law in: 2
+United States and: 2
+located in the: 2
+we do not: 2
+or creating derivative: 2
+creating derivative works: 2
+derivative works based: 2
+works based on: 2
+on the work: 2
+all references to: 2
+references to Project: 2
+in compliance with: 2
+with the terms: 2
+this agreement for: 2
+associated with the: 2
+this work in: 2
+where you are: 2
+outside the United: 2
+check the laws: 2
+to the terms: 2
+or any other: 2
+work in any: 2
+with active links: 2
+immediate access to: 2
+access to the: 2
+of a Project: 2
+which the phrase: 2
+for the use: 2
+an individual Project: 2
+individual Project Gutenberg™: 2
+is posted with: 2
+or providing access: 2
+providing access to: 2
+E 1 through: 2
+1 through 1: 2
+through 1 E: 2
+E 8 or: 2
+8 or 1: 2
+or 1 E: 2
+E 9 1: 2
+9 1 E: 2
+posted with the: 2
+with the permission: 2
+the permission of: 2
+found at the: 2
+of this work: 2
+electronic work or: 2
+access to or: 2
+“Plain Vanilla ASCII”: 2
+Vanilla ASCII” or: 2
+ASCII” or other: 2
+a means of: 2
+charge a fee: 2
+with paragraph 1: 2
+the owner of: 2
+owner of the: 2
+donations to the: 2
+• You provide: 2
+a full refund: 2
+full refund of: 2
+refund of any: 2
+of any money: 2
+any money paid: 2
+days of receipt: 2
+a physical medium: 2
+in accordance with: 2
+a replacement copy: 2
+a defect in: 2
+within 90 days: 2
+90 days of: 2
+distribution of Project: 2
+forth in this: 2
+in this agreement: 2
+Archive Foundation the: 2
+1 F 1: 2
+Project Gutenberg™ collection: 2
+Except for the: 2
+costs and expenses: 2
+and expenses including: 2
+expenses including legal: 2
+including legal fees: 2
+YOU AGREE THAT: 2
+If you received: 2
+to provide a: 2
+in lieu of: 2
+lieu of a: 2
+of a refund: 2
+a refund If: 2
+the work electronically: 2
+disclaimer or limitation: 2
+of the state: 2
+Information about the: 2
+by the widest: 2
+about the Project: 2
+page at www: 2
+tax exempt status: 2
+do not solicit: 2
+where we have: 2
+we have not: 2
+www gutenberg org/donate: 2
+Project Gutenberg™ eBooks: 2
+
+
